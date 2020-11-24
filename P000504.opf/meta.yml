@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1GS60395
   title: མན་ངག་རྫོགས་པ་ཆེན་པོའི་གནད་ཐོར་བུ
-  volume: ''
+  volume:
+    faa3ed6692184333936f334edcf7f73a:
+      image_group_id: I1GS60397
+      title: Volume 1 of man ngag rdzogs pa chen po'i gnad thor bu
+      volume_number: 1
+      total_pages: 404
   author: ''
+ebook_metadata:
+  title: མན་ངག་རྫོགས་པ་ཆེན་པོའི་གནད་ཐོར་བུ
+  author: ''
+  sku: P000504
+  cover: cover.jpg
+  layers:
+  - pagination
